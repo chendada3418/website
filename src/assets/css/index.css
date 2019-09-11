@@ -16,3 +16,7 @@
     border: 1px solid red;
     /* flex: 1; */
 }
+.swiper-container {
+    height: 200px;
+    border:1px solid gray;
+}
