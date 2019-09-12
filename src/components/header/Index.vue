@@ -59,7 +59,7 @@ export default {
 <style lang="scss">
 .header {
   height: 1rem;
-  background: orange;
+  background:gray;
 }
 
 .top {
