@@ -16,6 +16,9 @@
                 <li is="Item" v-for="item in arr" :key="item._id" :item="item"></li>
             </ul>
         </div>
+        <div class="goods">
+            哈哈哈哈哈哈哈哈
+        </div>
   </div>
 </template>
 
